@@ -4,7 +4,7 @@
 Exploratory Data Analysis of Traffic Accidents in New York
 
 ## Content
-- `notebooks/` - Exploratory Analysis Code
+- `notebook/` - Exploratory Analysis Code
 
 ## Data
 The dataset `nyc_crashes.csv` It is not included in this repository due to its size (539 MB).
